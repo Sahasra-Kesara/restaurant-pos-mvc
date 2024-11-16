@@ -1,0 +1,104 @@
+﻿@model List<Bill>
+
+<div class="container">
+    <h2 class="my-4 text-center">Sales Report</h2>
+
+    <!-- Date Picker for selecting the report date -->
+    <form method="get" action="@Url.Action("SalesReport", "Manager")" class="mb-4">
+        <div class="form-group">
+            <label for="reportDate">Select Date:</label>
+            <input type="date" id="reportDate" name="reportDate" value="@ViewData["ReportDate"]" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-light border">Generate Report</button>
+    </form>
+
+    <!-- Total Sales and Selected Date -->
+    @if (ViewData["ReportDate"] != null)
+    {
+        <p class="mb-3"><strong>Total Sales for Selected Date:</strong> Rs. @ViewData["TotalSales"]</p>
+        <p id="selectedDate" class="mb-4"><strong>Selected Date:</strong> @ViewData["ReportDate"]</p>
+    }
+
+    <!-- Button for Print Sales Report -->
+    <div class="text-center mb-4">
+        <button class="btn btn-light border" onclick="printReport()">Print Sales Report</button>
+    </div>
+
+    <!-- Responsive Table -->
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Bill ID</th>
+                    <th>Order ID</th>
+                    <th>Total Amount</th>
+                    <th>Payment Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var bill in Model)
+                {
+                    <tr>
+                        <td>@bill.BillId</td>
+                        <td>@bill.OrderId</td>
+                        <td>Rs. @bill.TotalAmount.ToString("N2")</td>
+                        <td>@bill.PaymentDate.ToString("dd-MM-yyyy")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Print-Only Style -->
+<style>
+    @@media print {
+        body *
+
+    {
+        visibility: hidden;
+    }
+
+    h2, p, .table, #selectedDate, .table * {
+        visibility: visible;
+    }
+
+    .table {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+    }
+
+    #selectedDate {
+        position: absolute;
+        top: 10px;
+        left: 0;
+        font-weight: bold;
+    }
+
+    }
+</style>
+
+<!-- JavaScript for printing -->
+<script>
+    function printReport() {
+        // Get the content for printing
+        var printContent = document.querySelector("h2").outerHTML +
+                           document.querySelector("p:nth-of-type(1)").outerHTML +
+                           document.querySelector("p:nth-of-type(2)").outerHTML +
+                           document.querySelector(".table").outerHTML;
+
+        // Store the original content of the body
+        var originalContent = document.body.innerHTML;
+
+        // Replace the body content with the content to print
+        document.body.innerHTML = printContent;
+
+        // Trigger the print functionality
+        window.print();
+
+        // Restore the original content of the body after printing
+        document.body.innerHTML = originalContent;
+    }
+</script>

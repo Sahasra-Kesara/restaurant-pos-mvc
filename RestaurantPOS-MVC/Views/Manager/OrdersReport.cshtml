@@ -1,0 +1,107 @@
+﻿@model List<RestaurantPOS_MVC.Models.Order>
+
+<div class="container">
+    <h2 class="my-4 text-center">Orders Report</h2>
+
+    <!-- Date Picker for selecting the report date -->
+    <form method="get" action="@Url.Action("OrdersReport", "Manager")" class="mb-4">
+        <div class="form-group">
+            <label for="reportDate">Select Date:</label>
+            <input type="date" id="reportDate" name="reportDate" value="@ViewData["ReportDate"]" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-light border">Generate Report</button>
+    </form>
+
+    <!-- Display the selected date on the page -->
+    @if (ViewData["ReportDate"] != null)
+    {
+        <p id="selectedDate" class="mb-4"><strong>Selected Date: </strong>@ViewData["ReportDate"]</p>
+    }
+
+    <!-- Buttons for Print Report -->
+    <div class="mb-3 text-center">
+        <button class="btn btn-light border" onclick="printReport()">Print Report</button>
+    </div>
+
+    <!-- Responsive Table -->
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Order ID</th>
+                    <th>Order Date</th>
+                    <th>Items</th>
+                    <th>Total</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.OrderId</td>
+                        <td>@order.OrderDate.ToString("dd-MM-yyyy")</td>
+                        <td>
+                            @foreach (var item in order.OrderItems)
+                            {
+                                <p>@item.Item.Name (x @item.Quantity)</p>
+                            }
+                        </td>
+                        <td>Rs. @order.OrderItems.Sum(oi => oi.TotalPrice).ToString("N2")</td>
+                        <td>@(order.IsPaid ? "Paid" : "Pending")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Print-Only Style -->
+<style>
+    @@media print {
+        body *
+
+    {
+        visibility: hidden;
+    }
+
+    h2, .table, #selectedDate, .table * {
+        visibility: visible;
+    }
+
+    .table {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+    }
+
+    #selectedDate {
+        position: absolute;
+        top: 10px;
+        left: 0;
+        font-weight: bold;
+    }
+
+    }
+</style>
+
+<!-- JavaScript for printing -->
+<script>
+    function printReport() {
+        // Ensure that the content to be printed includes the selected date and table
+        var printContent = document.querySelector("h2").outerHTML +
+                            document.querySelector("#selectedDate").outerHTML +
+                            document.querySelector(".table").outerHTML;
+        var originalContent = document.body.innerHTML;
+
+        // Set the body content to just the printable content
+        document.body.innerHTML = printContent;
+
+        // Trigger the print dialog
+        window.print();
+
+        // Restore the original content after printing
+        document.body.innerHTML = originalContent;
+    }
+</script>

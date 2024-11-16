@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\views\\pos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\views\\pos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos-mvc\\restaurantpos-mvc\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08013F-CEF7-4231-B507-B2AACB3EB2E6}|RestaurantPOS-MVC\\RestaurantPOS-MVC.csproj|solutionrelative:restaurantpos-mvc\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T16:21:00.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Program.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Program.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:30:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:36:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwIMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:34:20.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "POSController.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Controllers\\POSController.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Controllers\\POSController.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Controllers\\POSController.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Controllers\\POSController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:34:28.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:30:44.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:36:55.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:41:41.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:31:42.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\appsettings.json",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\appsettings.json",
+              "RelativeToolTip": "RestaurantPOS-MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T15:30:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\POS\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Views\\POS\\Index.cshtml",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\POS\\Index.cshtml",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Views\\POS\\Index.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T14:33:40.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Views\\Manager\\Index.cshtml",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Views\\Manager\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T14:33:28.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\OrderItem.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:32:41.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Models\\Order.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\Order.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:32:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Models\\Item.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\Item.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:32:27.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:32:21.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS-MVC\\Models\\Bill.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS-MVC\\RestaurantPOS-MVC\\Models\\Bill.cs",
+              "RelativeToolTip": "RestaurantPOS-MVC\\Models\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:32:12.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
